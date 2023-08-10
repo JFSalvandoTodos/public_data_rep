@@ -1,0 +1,7 @@
+"",".model","date","forecast_cases_values_mean","forecast_cases_values_sd"
+"1","ARIMA(my_scaled_logit(pcr_test, lower = 50, upper = 20000))",2023 W15,54.9005649279101,4.84708027974051
+"2","ARIMA(my_scaled_logit(pcr_test, lower = 50, upper = 20000))",2023 W16,51.5416278947706,5.03584517998431
+"3","ARIMA(my_scaled_logit(pcr_test, lower = 50, upper = 20000))",2023 W17,50.8860553903959,5.00480080684771
+"4","ARIMA(my_scaled_logit(pcr_test, lower = 50, upper = 20000))",2023 W18,50.7022944992909,4.83736067716906
+"5","ets_m_ad",2023 W15,10.9792771038138,0.414678327846718
+"6","ets_m_ad",2023 W16,1.33705011370535,0.623620965630342
